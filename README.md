@@ -32,4 +32,6 @@ Parantheses problem. + palindrome
 		...
 		 + preety print me the result
 
-11. Maps Temperature I want per country max, min and on the globe min or max, max temperature on a day
+11. Generate all permutations of a given string.
+
+12. Maps Temperature I want per country max, min and on the globe min or max, max temperature on a day
